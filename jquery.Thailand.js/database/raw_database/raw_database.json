@@ -111,7 +111,7 @@
         "district": "ดินแดง",
         "amphoe": "ลำทับ",
         "province": "กระบี่",
-        "zipcode": 81190,
+        "zipcode": 81120,
         "district_code": 810704,
         "amphoe_code": 8107,
         "province_code": 81
@@ -1272,7 +1272,7 @@
         "district": "นวมินทร์",
         "amphoe": "บึงกุ่ม",
         "province": "กรุงเทพมหานคร",
-        "zipcode": 10230,
+        "zipcode": 10240,
         "district_code": false,
         "amphoe_code": 1027,
         "province_code": 10
@@ -38080,7 +38080,7 @@
     },
     {
         "district": "สระบัว",
-        "amphoe": "ปทุมรัตต์",
+        "amphoe": "ปทุมรัตน์",
         "province": "ร้อยเอ็ด",
         "zipcode": 45190,
         "district_code": 450306,
@@ -55800,7 +55800,7 @@
         "province_code": 41
     },
     {
-        "district": "บ้านจันทร์",
+        "district": "บ้านจันทน์",
         "amphoe": "บ้านดุง",
         "province": "อุดรธานี",
         "zipcode": 41190,
