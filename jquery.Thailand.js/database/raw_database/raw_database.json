@@ -972,7 +972,7 @@
         "province_code": 10
     },
     {
-        "district": "อรุณอัมรินทร์",
+        "district": "อรุณอมรินทร์",
         "amphoe": "บางกอกน้อย",
         "province": "กรุงเทพมหานคร",
         "zipcode": 10700,
@@ -1840,15 +1840,6 @@
         "amphoe": "วัฒนา",
         "province": "กรุงเทพมหานคร",
         "zipcode": 10110,
-        "district_code": 103306,
-        "amphoe_code": 1039,
-        "province_code": 10
-    },
-    {
-        "district": "พระโขนงเหนือ",
-        "amphoe": "วัฒนา",
-        "province": "กรุงเทพมหานคร",
-        "zipcode": 10260,
         "district_code": 103306,
         "amphoe_code": 1039,
         "province_code": 10
@@ -38107,7 +38098,7 @@
     },
     {
         "district": "โนนสวรรค์",
-        "amphoe": "ปทุมรัตต์",
+        "amphoe": "ปทุมรัตน์",
         "province": "ร้อยเอ็ด",
         "zipcode": 45190,
         "district_code": 450305,
