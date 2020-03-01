@@ -120,7 +120,7 @@
         "district": "ทุ่งไทรทอง",
         "amphoe": "ลำทับ",
         "province": "กระบี่",
-        "zipcode": 81190,
+        "zipcode": 81120,
         "district_code": 810703,
         "amphoe_code": 8107,
         "province_code": 81
@@ -9498,7 +9498,7 @@
         "district": "หาดท่าเสา",
         "amphoe": "เมืองชัยนาท",
         "province": "ชัยนาท",
-        "zipcode": 17120,
+        "zipcode": 17000,
         "district_code": 180106,
         "amphoe_code": 1801,
         "province_code": 18
@@ -18912,7 +18912,7 @@
         "district": "บางตะพง",
         "amphoe": "ปากพนัง",
         "province": "นครศรีธรรมราช",
-        "zipcode": 80370,
+        "zipcode": 80140,
         "district_code": 801213,
         "amphoe_code": 8012,
         "province_code": 80
@@ -18930,7 +18930,7 @@
         "district": "บางศาลา",
         "amphoe": "ปากพนัง",
         "province": "นครศรีธรรมราช",
-        "zipcode": 80370,
+        "zipcode": 80140,
         "district_code": 801211,
         "amphoe_code": 8012,
         "province_code": 80
@@ -19002,7 +19002,7 @@
         "district": "หูล่อง",
         "amphoe": "ปากพนัง",
         "province": "นครศรีธรรมราช",
-        "zipcode": 80370,
+        "zipcode": 80140,
         "district_code": 801208,
         "amphoe_code": 8012,
         "province_code": 80
@@ -24282,7 +24282,7 @@
         "province_code": 31
     },
     {
-        "district": "หนองตะครอง",
+        "district": "หนองตระครอง",
         "amphoe": "ละหานทราย",
         "province": "บุรีรัมย์",
         "zipcode": 31170,
@@ -41922,7 +41922,7 @@
         "province_code": 51
     },
     {
-        "district": "กระแชง",
+        "district": "กระแซง",
         "amphoe": "กันทรลักษ์",
         "province": "ศรีสะเกษ",
         "zipcode": 33110,
@@ -43839,7 +43839,7 @@
         "province_code": 47
     },
     {
-        "district": "โพธิ์ไพศาล",
+        "district": "โพธิไพศาล",
         "amphoe": "กุสุมาลย์",
         "province": "สกลนคร",
         "zipcode": 47210,
@@ -51258,7 +51258,7 @@
         "district": "เกาะเต่า",
         "amphoe": "เกาะพะงัน",
         "province": "สุราษฎร์ธานี",
-        "zipcode": 84280,
+        "zipcode": 84360,
         "district_code": 840503,
         "amphoe_code": 8405,
         "province_code": 84
@@ -59058,7 +59058,7 @@
         "province_code": 34
     },
     {
-        "district": "ห้วยขะยูง",
+        "district": "ห้วยขะยุง",
         "amphoe": "วารินชำราบ",
         "province": "อุบลราชธานี",
         "zipcode": 34310,
